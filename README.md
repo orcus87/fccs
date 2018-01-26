@@ -1,1 +1,1 @@
-this is just stupid
+Some pieces of code from freecodecamp challenges.
